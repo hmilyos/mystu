@@ -1,6 +1,6 @@
 # Mystu
 
-angular»ù´¡demo
+angular  demo
 
 git add README.md
 git commit -m "first commit"
