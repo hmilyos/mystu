@@ -1,6 +1,6 @@
 # Mystu
 
-angular  demo
+angular  demo（未使用懒加载）
 
 
 项目启动  pull下代码后，在cmd终端进入项目目录下，执行npm install;  下载完依赖后输入 npm start  启动项目；  项目启动会根据你在package.json配置scripts >> start节点的端口号启动；项目启动完，在浏览器打开 http://localhost:对应的端口号 ，  例如：http://localhost:8073 。 
